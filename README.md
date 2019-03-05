@@ -19,7 +19,7 @@ Android app which keeps track of score and fouls for two different team A and B 
 
 **App Screenshots**
 ====================
-<img src = "https://drive.google.com/open?id=1LrBMdLgM9GVF9FfBr83MK--TdNGNW0oh"style = "width:100px ; height:100px"/>
+
 ![screen1](https://drive.google.com/open?id=1LrBMdLgM9GVF9FfBr83MK--TdNGNW0oh)
 
 
